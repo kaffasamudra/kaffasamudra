@@ -1,7 +1,7 @@
 <div align="center">
-
-![Animated GIF](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
   
+![Animated GIF](https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif?cid=ecf05e47iag5shlswtur98sr3elforbwrufbb4t5gwa55ixu&ep=v1_gifs_related&rid=giphy.gif&ct=g)
+
 <h1 align="center">Hai 👋,I'm Kaffa Samudra</h1>
 <h3 align="center">Passionate full stack developer from Indonesia</h3>
 
@@ -18,3 +18,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
 
+![Animated GIF](https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e475dmxuwf5c10uikgwzstnj8btzjvyftvtys7pls59&ep=v1_gifs_related&rid=giphy.gif&ct=g). ![Animated GIF](https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif?cid=ecf05e472krfnpj2r0zh3cyi1rbn30koiydhiycui44fiq1i&ep=v1_gifs_related&rid=giphy.gif&ct=g) ![Animated GIF](https://media.giphy.com/media/3NyvreZAtNLrNKTrKa/giphy.gif?cid=ecf05e475dmxuwf5c10uikgwzstnj8btzjvyftvtys7pls59&ep=v1_gifs_related&rid=giphy.gif&ct=g)  
+![Alt Text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sibakua.com%2Fprogramer-buat-caption%2F&psig=AOvVaw0TDz86PWk7ZIXOe0O_FIs-&ust=1733008831119000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCA0ZfXgooDFQAAAAAdAAAAABAE)
