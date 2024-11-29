@@ -2,7 +2,7 @@
 <h3 align="center">Passionate full stack developer from Indonesia</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on StaffApp<br>🌱 I’m currently learning CI3<br>💬 Ask me about CI3<br>⚡ Sad fact solitude is my best friend
+🔭 I’m currently working on StaffApp<br>🌱 I’m currently learning CI3<br>💬 Ask me about CI3<br>⚡ Sad fact "Me, myself, my Wi-Fi signal, and my sadcore playlist—relationship goals in mode aku dan bayanganku🥀🌑."
 
 
 ## 🌐 Socials:
@@ -19,7 +19,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=kaffasamudra&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-!["Me, myself, my Wi-Fi signal, and my sadcore playlist—relationship goals in mode aku dan bayanganku🥀🌑."](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kaffasamudra&icon=2&color=0)](https://visitcount.itsvg.in)
