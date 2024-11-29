@@ -1,30 +1,27 @@
-<h1 align="center">Hai 👋, saya Kaffa Samudra</h1>
-<h3 align="center">Pengembang tumpukan penuh yang bersemangat dari Indonesia</h3>
+<h1 align="center">Hai 👋,I'm Kaffa Samudra</h1>
+<h3 align="center">Passionate full stack developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaffasamudra&label=Profile%20views&color=0e75b6&style=flat" alt="kaffasamudra" /> </p>
+# 💫 About Me:
+🔭 I’m currently working on StaffApp<br>🌱 I’m currently learning CI3<br>💬 Ask me about CI3<br>⚡ Sad fact solitude is my best friend
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaffasamudra" alt="kaffasamudra" /></a> </p>
 
-- 🔭 Saat ini saya sedang mengerjakan **staffApp**
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kaffa samudra) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaffa_quotes) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/kaffa samudra) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kaffa samudra) 
 
-- 🌱 Saat ini saya sedang mempelajari **CI3**
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flat&logo=codeIgniter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kaffasamudra&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kaffasamudra&theme=ambient_gradient&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaffasamudra&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 📫 Cara menghubungi saya **kaffas87@gmail.com**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kaffasamudra&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- ⚡ Fakta menarik **"Aku, diriku, sinyal Wi-Fi-ku, dan daftar putar lagu sadcore-ku—tujuan hubungan dalam mode aku dan bayanganku🥀🌑."**
+### ✍️ Random Dev Quote
+!["Me, myself, my Wi-Fi signal, and my sadcore playlist—relationship goals in mode aku dan bayanganku🥀🌑."](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<h3 align="left">Hubungi aku:</h3>
-<p align="left">
-<a href="https://fb.com/kaffa samudra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaffa samudra" height="30" width="40" /></a>
-<a href="https://instagram.com/kaffa_quotes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kutipan_kaffa" tinggi="30" lebar="40" /></a>
-<a href="https://www.youtube.com/c/kaffa samudra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kaffa samudra" tinggi="30" lebar="40" /></a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=kaffasamudra&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">Bahasa dan Alat:</h3>
-Bahasa Indonesia: <p align="kiri"> <a href="https://getbootstrap.com" target="_blank" rel="tidak ada referrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" lebar="40" tinggi="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="tidak ada referrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" lebar="40" tinggi="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="tidak ada referrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" lebar="40" tinggi="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" lebar="40" tinggi="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" lebar="40" tinggi="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" lebar="40" tinggi="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" lebar="40" tinggi="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" lebar="40" tinggi="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" lebar="40" tinggi="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" lebar="40" tinggi="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="tukang pos" lebar="40" tinggi="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="ular piton" lebar="40" tinggi="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaffasamudra&show_icons=true&locale=en&layout=compact"
-
-alt="kaffasamudra" /></p> <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaffasamudra&show_icons=true&locale=en" alt="kaffasamudra" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaffasamudra&" alt="kaffasamudra" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
