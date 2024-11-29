@@ -1,4 +1,7 @@
 <div align="center">
+
+![Animated GIF](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
+  
 <h1 align="center">Hai 👋,I'm Kaffa Samudra</h1>
 <h3 align="center">Passionate full stack developer from Indonesia</h3>
 
