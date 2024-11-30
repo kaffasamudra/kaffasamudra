@@ -6,7 +6,7 @@
 <h3>A full stack programmer from SMKN 1 Bantul</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on StaffApp<br>🌱 I’m currently learning CI3<br>💬 Ask me about CI3<br>⚡ Sad fact "Me, myself, my Wi-Fi signal, and my sadcore playlist—relationship goals in mode aku dan bayanganku🥀🌑."
+🔭 I’m currently working on StaffApp<br>🌱 I’m currently learning CI3<br>💬 Ask me about CI3<br>⚡ Fun fact I 🧡 Coding
 
 
 ## 🌐 Socials:
